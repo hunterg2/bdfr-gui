@@ -1,0 +1,14 @@
+# Personal settings: the user list and presets. Never commit these.
+bdfr_gui_config.json
+bdfr_gui_config.json.bak
+bdfr_gui_config.json.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/

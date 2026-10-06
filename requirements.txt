@@ -1,0 +1,8 @@
+# The tool this GUI drives. Install into the same Python that will run
+# bdfr_gui.pyw:
+#     python -m pip install -r requirements.txt
+bdfr
+
+# Tkinter is part of the Python standard library and is not on PyPI, so it
+# is not listed here. The python.org installers for Windows and macOS include
+# it; on Debian/Ubuntu install the python3-tk package.
