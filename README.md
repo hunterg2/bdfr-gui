@@ -86,3 +86,7 @@ The file is listed in `.gitignore`; it is yours and should not be committed.
 ## Note
 
 This is a personal tool written for one person's workflow and shared as-is. It wraps bdfr's command line rather than reimplementing anything, so bdfr's own documentation is the reference for what the flags do.
+
+## Licence
+
+Copyright (c) 2026 hunnaG. Released under the GNU General Public License v3.0; see [LICENSE](LICENSE).
